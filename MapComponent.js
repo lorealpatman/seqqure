@@ -178,9 +178,10 @@ const MapComponent = compose(
               textAlign: `center`
             }}
           >
-            <h5>seQQure</h5>
+            <h5>Sabio Escrow</h5>
             <h6>
-              405 Corporate Pointe<br />Suite B1040<br />Culver City, CA 90320
+              400 Corporate Pointe<br />
+              <br />Culver City, CA 90320
             </h6>
           </div>
         </div>
